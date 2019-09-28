@@ -11,6 +11,6 @@ $ python face_recognizer.py
 
 Read:
 1. Inception neural network.ipynb contains Architecture of Inception model.
-2. Siamese NN.ipynb contains Siamese Network to train FaceNet model.
+2. Siamese NN.ipynb contains implementation of Siamese Network.
 
 
